@@ -233,7 +233,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * <b><code>&nbsp;&nbsp;&nbsp;853⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;155🍴</code></b> [Munin](https://github.com/Neo23x0/munin)) - Online hash checker for VirusTotal and other services.
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;40⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [PowerSponse](https://github.com/swisscom/PowerSponse)) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;27⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [PyaraScanner](https://github.com/nogoodconfig/pyarascanner)) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
-* <b><code>&nbsp;&nbsp;&nbsp;238⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;52🍴</code></b> [rastrea2r](https://github.com/rastrea2r/rastrea2r)) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 * 🌎 [RaQet](raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 * <b><code>&nbsp;&nbsp;&nbsp;983⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;126🍴</code></b> [Raccine](https://github.com/Neo23x0/Raccine)) - A Simple Ransomware Protection
 * 🌎 [Stalk](www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
@@ -244,6 +243,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * <b><code>&nbsp;&nbsp;3142⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;664🍴</code></b> [sysmon-modular](https://github.com/olafhartong/sysmon-modular)) - A repository of sysmon configuration modules
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;40⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9🍴</code></b> [traceroute-circl](https://github.com/CIRCL/traceroute-circl)) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 * 🌎 [X-Ray 2.0](www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
+* [cl0q](https://cl0q.com) - Open search engine for domain research, 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking.
+* 
 
 ### Playbooks
 
